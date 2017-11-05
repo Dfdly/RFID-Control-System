@@ -1,6 +1,3 @@
-/**
- * Created by yangfd on 2016/10/31.
- */
 import java.sql.*;
 public class JDBCTest {
     public static void main(String[] args){
